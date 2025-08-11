@@ -1,16 +1,42 @@
-![Header Image](/assets/githubHeader.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=35&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=hey+there%2C+I'm+Batuhan!" />
+  <p align="center">a full stack developer from Turkey who builds & breaks stuff by day, enjoys movies at night.</p>
+</p>
 
-I'm a student / software developer living in Bursa, Turkey.
-I’m currently working on Automation and Web scraping projects.
+<hr>
 
-### Languages
+```mermaid
+mindmap
+  root((Skills))
+    Languages
+      JavaScript
+      TypeScript
+      C#
+      Python
+    Databases
+      PostgreSQL
+      Microsoft SQL Server
+      MongoDB
+    Frameworks
+      React
+      Vue
+      Next.js
+      Nuxt.js
+      Express
+    Web Security
+      Common Vulnerabilities
+      Authentication
+      CORS
+```
+<p align="center"><i>Also</i></p>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### My Top 3 Projects
-
-[![tumblr-keyword-scraper](https://img.shields.io/badge/tumblr--keyword--scraper-orange)](https://github.com/iapheus/tumblr-keyword-scraper)
-[![picture-text-translator](https://img.shields.io/badge/picture--text--translator-informational)](https://github.com/iapheus/picture-text-translator)
-[![duplicate-remover](https://img.shields.io/badge/duplicate--remover-2ea44f)](https://github.com/iapheus/duplicate-remover)
+<p align="center">
+  <img src="https://img.shields.io/badge/react_native-%23003366.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
