@@ -6,6 +6,7 @@
 <hr>
 
 ```mermaid
+%%{init: {'theme': 'neutral'}}%%
 mindmap
   root((Skills))
     Languages
